@@ -32,7 +32,7 @@ Por meio de comandos interativos, o bot exibe histórico de partidas, line-up at
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/Julio-Lopes/FuriaBot-Chatbot-Telegram-para-Fas-da-FURIA
-   cd furiabot
+   cd FuriaBot-Chatbot-Telegram-para-Fas-da-FURIA
    ```
 
 2. **Instale as dependências**:
